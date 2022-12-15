@@ -1,0 +1,412 @@
+{
+    "helicopter": {
+        "size": 28,
+        "models": [
+            "mh6",
+            "as350",
+            "990116733",
+            "polmav",
+            "akula",
+            "annihilator",
+            "buzzard",
+            "buzzard2",
+            "frogger",
+            "frogger2",
+            "havok",
+            "hunter",
+            "maverick",
+            "savage",
+            "seasparrow",
+            "skylift",
+            "supervolito",
+            "supervolito2",
+            "swift",
+            "swift2",
+            "valkyrie",
+            "valkyrie2",
+            "volatus",
+            "annihilator2",
+            "seasparrow2",
+            "seasparrow3",
+            "thruster",
+            "newsmav",
+            "swathel"
+        ]
+    },
+    "cargobob": {
+        "size": 34,
+        "models": [
+            "cargobob",
+            "cargobob2",
+            "cargobob3",
+            "cargobob4"
+        ]
+    },
+    "boat": {
+        "size": 28,
+        "models": [
+            "dinghy",
+            "dinghy2",
+            "dinghy3",
+            "dinghy4",
+            "jetmax",
+            "marquis",
+            "speeder",
+            "speeder2",
+            "squalo",
+            "submersible",
+            "submersible2",
+            "suntrap",
+            "toro",
+            "toro2",
+            "tropic",
+            "tropic2",
+            "tug",
+            "avisa",
+            "dinghy5",
+            "kosatka",
+            "longfin",
+            "patrolboat",
+            "predator",
+            "predator1",
+            "predator2"
+        ]
+    },
+    "float_plane": {
+        "size": 28,
+        "models": [
+            "dodo"
+        ]
+    },
+    "light_plane": {
+        "size": 28,
+        "models": [
+            "alphaz1",
+            "cuban800",
+            "duster",
+            "howard",
+            "mammatus",
+            "microlight",
+            "nokota",
+            "rogue",
+            "seabreeze",
+            "stunt",
+            "velum",
+            "velum2",
+            "vestra",
+            "spitfire",
+            "mq9"
+        ]
+    },
+    "medium_plane": {
+        "size": 28,
+        "models": [
+            "blimp",
+            "blimp2",
+            "blimp3",
+            "luxor",
+            "luxor2",
+            "miljet",
+            "mogul",
+            "nimbus",
+            "shamal",
+            "tula",
+            "avenger",
+            "avenger2"
+        ]
+    },
+    "big_plane": {
+        "size": 36,
+        "models": [
+            "bombushka",
+            "cargoplane",
+            "jet",
+            "titan",
+            "afo"
+        ]
+    },
+    "small_jet": {
+        "size": 28,
+        "models": [
+            "besra",
+            "hydra",
+            "lazer",
+            "pyro",
+            "molotok",
+            "starling",
+            "strikeforce",
+            "f22a",
+            "fa18e",
+            "f14a2",
+            "mig29a"
+        ]
+    },
+    "big_jet": {
+        "size": 36,
+        "models": [
+            "volatol",
+            "alkonost"
+        ]
+    },
+
+    "dumptruck": {
+        "size": 28,
+        "models": [
+            "trash",
+            "trash2"
+        ]
+    },
+
+    "truck": {
+        "size": 28,
+        "models": [
+            "brickade",
+            "rallytruck",
+            "vetir",
+            "halftrack",
+            "chernobog",
+            "barracks3",
+            "barracks2",
+            "barracks",
+            "tiptruck2",
+            "tiptruck",
+            "rubble",
+            "mixer2",
+            "mixer",
+            "dump",
+            "riot",
+            "riot2",
+            "firetruk",
+            "terbyte",
+            "stockade3",
+            "stockade",
+            "pounder2",
+            "pounder",
+            "phantom3",
+            "phantom2",
+            "phantom",
+            "packer",
+            "mule4",
+            "mule3",
+            "mule2",
+            "mule",
+            "hauler2",
+            "hauler",
+            "cerberus3",
+            "cerberus2",
+            "cerberus",
+            "biff",
+            "benson",
+            "slamtruck",
+            "utillitruck",
+            "utillitruck2",
+            "scrap",
+            "journey2"
+        ]
+    },
+    "bearcat": {
+        "size": 28,
+        "models": [
+            "riot",
+            "riot2"
+        ]
+    },
+    "tow_truck": {
+        "size": 28,
+        "models": [
+            "flatbed",
+            "towtruck",
+            "towtruck2",
+            "towcustom",
+            "20ramrbc"
+        ]
+    },
+    "ems_car": {
+        "size": 23,
+        "models": [
+            "ambulance",
+            "firetruk",
+            "lguard",
+            "romero",
+            "1200RTA",
+            "16exp_ems",
+            "ambulance6"
+        ]
+    },
+    "police_car": {
+        "size": 23,
+        "models": [
+            "21tr14charg",
+            "21tr16fpiu",
+            "valor18ch",
+            "valor20ram",
+            "valorcap",
+            "21trcvpi",
+            "valorf250",
+            "21trfpis",
+            "valor18ta",
+            "pdblazer",
+            "gurkha",
+            "kawasaki",
+            "challenger18",
+            "sspres",
+            "polnspeedo",
+            "zr1rb",
+            "mustang",
+            "govburb",
+            "pbike",
+            "newvic",
+            "13capricenf",
+            "14chargernf",
+            "16ramnf",
+            "16explorernf",
+            "16f150nf",
+            "18tahoenf",
+            "18chargernf",
+            "18taurusnf",
+            "challenger18",
+            "kawasaki",
+            "sspres",
+            "polnspeedo",
+            "zr1RB",
+            "police",
+            "police2",
+            "police3",
+            "policeb",
+            "policeold1",
+            "policeold2",
+            "policet",
+            "pranger",
+            "sheriff",
+            "sheriff2",
+            "peel50police"
+        ]
+    },
+    "unmarked_pd": {
+        "size": 23,
+        "models": [
+            "umoracle",
+            "fbi",
+            "fbi2",
+            "police4",
+            "fibb",
+            "fibb2",
+            "fibc3",
+            "fibd3",
+            "fibh",
+            "fibk2",
+            "fibs"
+        ]
+    },
+
+    "bus": {
+        "size": 28,
+        "models": [
+            "pbus",
+            "airbus",
+            "bus",
+            "coach",
+            "pbus2",
+            "rentalbus",
+            "tourbus"
+        ]
+    },
+
+    "jetsky": {
+        "size": 28,
+        "models": [
+            "seashark",
+            "seashark2",
+            "seashark3"
+        ]
+    },
+
+    "go-kart": {
+        "size": 24,
+        "models": [
+            "veto",
+            "veto2"
+        ]
+    },
+
+    "open_wheel": {
+        "size": 26,
+        "models": [
+            "formula",
+            "formula2",
+            "openwheel1",
+            "openwheel2"
+        ]
+    },
+
+    "tank": {
+        "size": 27,
+        "models": [
+            "apc",
+            "khanjali",
+            "minitank",
+            "rhino",
+            "scarab",
+            "scarab2",
+            "scarab3",
+            "trailersmall2"
+        ]
+    },
+
+    "big_boat": {
+        "size": 45,
+        "models": [
+            "amels200",
+            "titanic2"
+        ]
+    },
+
+    "falcon": {
+        "size": 35,
+        "models": [
+            "falcon"
+        ]
+    },
+
+    "star_destroyer": {
+        "size": 45,
+        "models": [
+            "stardestroy"
+        ]
+    },
+
+    "death_star": {
+        "size": 40,
+        "models": [
+            "deathstar"
+        ]
+    },
+
+    "pod_racer": {
+        "size": 35,
+        "models": [
+            "podracer"
+        ]
+    },
+
+    "royal_naboo": {
+        "size": 40,
+        "models": [
+            "royalnaboo"
+        ]
+    },
+
+    "x_wing": {
+        "size": 40,
+        "models": [
+            "xwing2"
+        ]
+    },
+
+    "tie_fighter": {
+        "size": 40,
+        "models": [
+            "tiefighterx"
+        ]
+    }
+}

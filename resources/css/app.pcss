@@ -1,0 +1,118 @@
+/**
+* The tailwind base style.
+*/
+@import "tailwindcss/base";
+
+/**
+ * The tailwind components.
+ */
+@import "tailwindcss/components";
+
+/**
+ * The tailwind utilities.
+ */
+@import "tailwindcss/utilities";
+
+/**
+ * NProgress for Inertia loading.
+ */
+@import "nprogress/nprogress.css";
+
+/**
+ * AOS.
+ */
+@import "aos/dist/aos.css";
+
+/**
+ * The custom css.
+ */
+
+* {
+  transition-duration: 0.3s;
+}
+
+h1, h2, h3 {
+    font-weight: 600;
+}
+
+h4, h5, h6 {
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 2.25em;
+}
+
+h2 {
+    font-size: 1.70em;
+}
+
+h3 {
+    font-size: 1.30em;
+}
+
+h4 {
+    font-size: 1.05em;
+}
+
+/*
+ * Scrollbars
+ */
+
+*::-webkit-scrollbar {
+    width: 6px;
+}
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #666666 #e2e2e2;
+}
+
+*::-webkit-scrollbar-track {
+    background: #e2e2e2;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #666666;
+}
+
+pre.lines {
+    font-size: 14px;
+    line-height: 17px;
+    padding: 10px 14px;
+    background: #1E1E2E;
+    border-radius: 3px;
+}
+
+pre.lines .line-number {
+    display: inline-block;
+    color: #7F849C;
+    padding-right: 7px;
+    user-select: none;
+}
+
+/*
+ * Range sliders
+ */
+
+.range::-moz-range-thumb {
+    background-color: hsl(217.2, 91.2%, 59.8%);
+    border-style: none;
+    height: 1.25rem;
+    position: relative;
+    width: 1.25rem;
+    -moz-transition-property: all;
+    transition-property: all;
+    transition-duration: .15s;
+    transition-duration: .3s;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    border-radius: 1rem;
+    top: 50%;
+}
+
+.range::-moz-range-track {
+    height: .5rem;
+    width: 100%;
+    border-radius: 1rem;
+    background-color: hsl(215, 13.8%, 34.1%);
+}
